@@ -1,5 +1,5 @@
 # Network_pruning
-A project for MIPT optimization methods course that was developed in ~ one week period. Contains a study of several Netowrk pruning techniques on LeNet and ResNet-like network architectures.
+A project for MIPT optimization methods course that was developed in approximmetly one week period. Contains a study of several Netowrk pruning techniques on LeNet and ResNet-like network architectures.
 
 Contents
 - KMNIST.ipynb - notebook that contains a study of LeNEt network performance on KMNIST dataset
